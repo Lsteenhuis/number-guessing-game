@@ -1,0 +1,6 @@
+[submodule "number-guessing-game-client"]
+	path = number-guessing-game-client
+	url = git@github.com:Lsteenhuis/number-guessing-game-client.git
+[submodule "number-guessing-game-server"]
+	path = number-guessing-game-server
+	url = git@github.com:Lsteenhuis/number-guessing-game-server.git
